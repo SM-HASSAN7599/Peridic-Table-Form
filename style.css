@@ -1,0 +1,635 @@
+.a{
+    color: brown;
+    margin-left: 400px;
+
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-style:italic;
+    text-decoration: underline; 
+    
+}
+.b{
+    margin-top: px;
+    margin-left: 250px;
+    background-color: rgb(61, 82, 78);
+    
+}
+.c {
+    margin-left: 450px;
+    display: inline-block;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white; 
+      text-decoration: none; 
+      border-radius: 5px; 
+      font-size: 15px;
+      text-align: center;
+      font-style: italic;
+     
+
+}
+
+.aa1 {
+    color: crimson;
+    background-color: black;
+    padding-left: 7px;
+}
+
+.aa2 {
+    background-color: rgb(65,105,225);
+}
+
+.aa3 {
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding: 3px;
+}
+
+.aa4 {
+    color: rgb(116, 64, 47);
+    background-color: aqua;
+    padding: 5px;
+}
+
+.aa5 {
+    color: rgb(34, 77, 34);
+    background-color: rgb(226, 108, 108);
+    padding: 4px;
+}
+
+.aa6 {
+    background-color: rgb(65,105,225);
+}
+
+.aa7 {
+    color: midnightblue;
+    background-color: deeppink;
+    padding: 5px;
+}
+
+.aa8 {
+    color: rgb(53, 53, 4);
+    background-color: rgb(88, 167, 194);
+    padding-left: 6px;
+}
+
+.aa9 {
+    color: rgb(53, 53, 4);
+    background-color: rgb(88, 167, 194);
+    padding-left: 5px;
+}
+
+.aa10 {
+    color: rgb(53, 53, 4);
+    background-color: rgb(88, 167, 194);
+    padding: 5px;
+}
+
+.aa11 {
+    color: rgb(59, 59, 55);
+    background-color: rgb(233, 110, 134);
+    padding: 5px;
+}
+
+.aa12 {
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding: 3px;
+}
+
+.bb1 {
+    color: rgb(116, 64, 47);
+    background-color: aqua;
+    padding: 5px;
+}
+.bb2 {
+    color: rgb(34, 77, 34);
+    background-color: rgb(226, 108, 108);
+    padding: 2px;
+}
+.bb3 {
+    background-color: rgb(65,105,225);
+}
+.bb4 {
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding: 5px;
+}
+.bb5 {
+    color: midnightblue;
+    background-color: deeppink;
+    padding: 4px;
+}
+.bb6 {
+    color: rgb(53, 53, 4);
+    background-color: rgb(88, 167, 194);
+    padding-left: 6px;
+}
+.bb7 {
+    color: rgb(53, 53, 4);
+    background-color: rgb(88, 167, 194);
+    padding-left: 6px;
+}
+.bb8 {
+    color: rgb(59, 59, 55);
+    background-color: rgb(233, 110, 134);
+    padding: 4px;
+}
+.bb9 {
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding: 4px;
+}
+.b1{
+    color: rgb(116, 64, 47);
+    background-color: aqua;
+    padding-left: 5px;
+}
+.b2{
+    color: rgb(34, 77, 34);
+    background-color: rgb(226, 108, 108);
+    padding-left: 3px;
+}
+.b3{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b4{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b5{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b6{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b7{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b8{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b9{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;;
+}
+.b10{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b11{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b12{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding: 3px;
+}
+.b13{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding: 4px;
+}
+.b14{
+    color: midnightblue;
+    background-color: deeppink;
+    padding-left: 3px;
+}
+.b15{
+    color: midnightblue;
+    background-color: deeppink;
+    padding-left: 3px;
+}
+.b16{
+    color: rgb(53, 53, 4);
+    background-color: rgb(88, 167, 194);
+    padding-left: 2px;
+}
+.b17{
+    color: rgb(59, 59, 55);
+    background-color: rgb(233, 110, 134);
+    padding-left: 3px;
+}
+.b18{
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding-left: 3px;
+}
+.q1{
+   color: rgb(116, 64, 47);
+    background-color: aqua;
+    padding-left: 3px;
+}
+.q2{
+    color: rgb(34, 77, 34);
+    background-color: rgb(226, 108, 108);
+    padding-left: 4px;
+}
+.q3{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 4px;
+}
+.q4{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.q5{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.q6{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 1px;
+}
+.q7{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 5px;
+}
+.q8{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left:2px;
+}
+.q9{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.q10{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.q11{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.q12{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.q13{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 5px;
+}
+.q14{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 2px;
+}
+.q15{
+    color: midnightblue;
+    background-color: deeppink;
+    padding-left: 2px;
+}
+.q16{
+    color: midnightblue;
+    background-color: deeppink;
+    padding-left: 2px;
+}
+.q17{
+    color: rgb(59, 59, 55);
+    background-color: rgb(233, 110, 134);
+    padding-left: 8px;
+}
+.q18{
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding-left: 3px;
+}
+.w1{
+    color: rgb(116, 64, 47);
+    background-color: aqua;
+    padding-left: 4px;
+}
+.w2{
+    color: rgb(34, 77, 34);
+    background-color: rgb(226, 108, 108);
+    padding-left: 3px;
+}
+.w3{
+    color: rgb(202, 63, 91);
+    background-color: rgb(182, 199, 87);
+    padding-left: 2px;
+}
+.w4{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: ;
+}
+.w5{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.w6{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 4px;
+}
+.w7{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 4px;
+}
+.w8{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.w9{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 6px;
+}
+.w10{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.w11{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: ;
+}
+.w12{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.w13{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 4px;
+}
+.w14{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 2px;
+}
+.w15{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 3px;
+}
+.w16{
+    color: midnightblue;
+    background-color: deeppink;
+    padding-left: 2px;
+}
+.w17{
+    color: rgb(59, 59, 55);
+    background-color: rgb(233, 110, 134);
+    padding-left: 3px;
+}
+.w18{
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding-left: 3px;
+}
+.z1{
+    color: rgb(116, 64, 47);
+    background-color: aqua;
+    padding-left: 5px;
+}
+.z2{
+    color: rgb(34, 77, 34);
+    background-color: rgb(226, 108, 108);
+    padding-left:4px;
+}
+.z3{
+    color:  rgb(28, 40, 51);
+    background-color: crimson;
+    padding-left:  ;
+}
+.z4{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: ;
+}
+.z5{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.z6{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.z7{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.z8{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.z9{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 3px;
+}
+.z10{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.z11{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.z12{
+    color: rgb(145, 8, 8);
+    background-color: rgb(114, 127, 151);
+    padding-left: 2px;
+}
+.z13{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 3px;
+}
+.z14{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 4px;
+}
+.z15{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: px;
+}
+.z16{
+    color: rgb(199, 143, 2);
+    background-color: greenyellow;
+    padding-left: 2px;
+}
+.z17{
+    color: rgb(59, 59, 55);
+    background-color: rgb(233, 110, 134);
+    padding-left: 3px;
+}
+.z18{
+    color: rgb(250, 85, 167);
+    background-color: olive;
+    padding-left: 2px;
+}
+.e{
+    padding: 5px;
+    background-color: rgb(65,105,225);
+}
+.s{
+    color: rgb(123, 54, 54);
+    background-color: rgb(233, 150, 122);
+    text-align: center;
+}
+.h{
+    background-color: rgb(100, 149, 237);
+    text-align: center;
+}
+.t{
+    background-color: rgb(65,105,225);
+}
+.abc{
+    background-color: rgb(21, 20, 20);
+}
+
+/* CSS for FORM PAGE */
+.ab{
+    background-color: rgb(188, 188, 188);
+}
+.d{
+    color: rgb(66, 96, 97);
+    font-style:italic;
+    text-decoration: underline; 
+    margin-bottom: 50px;
+}
+.form-container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #096d0c55;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.809);
+    margin-top: 50px;
+}
+.f{
+    color: #665858;
+    font-size: 14px;
+    font-size:  15px;
+}
+.p{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 40px;
+}
+.pp{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.ppp{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 66px;
+    margin-left: 40px;
+}
+.i{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 10px;
+}
+.ii{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.iii{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 29px;
+    margin-left: 23px;
+}
+.v{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 56px;
+}
+.vv{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.vvv{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 9px;
+    margin-left: 15px;
+    
+}
+.k{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 38px;
+}
+.kk{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 10px;
+    margin-left: 63px;
+}
+.kkk{
+    font-weight: 500px;
+    font-style: oblique;
+    margin-right: 30px;
+    margin-left: 15px;
+}
+.j{
+    display: inline-block;
+    padding: 5px ;
+    background-color: #10755c;
+    font-style: oblique;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+.u{
+    display: inline-block;
+    padding: 5px ;
+    background-color: #dba44c;
+    font-style: oblique;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+    margin-left:  450px;
+    margin-bottom: 50px;
+}
